@@ -1,5 +1,13 @@
 {
   "extends": [
     "config:base"
+  ],
+  "dependencyDashboard": true,
+  "lockFileMaintenance": { "enabled": true },
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "automerge": true
+    }
   ]
 }
