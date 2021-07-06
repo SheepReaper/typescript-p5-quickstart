@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["@types/eslint", "npm:7.2.12"],
+            ["@types/eslint", "npm:7.2.14"],
             ["@types/prettier", "npm:2.2.3"],
             ["eslint", "npm:7.27.0"],
             ["p5i", "npm:0.4.2"],
@@ -1216,10 +1216,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/eslint", [
-        ["npm:7.2.12", {
-          "packageLocation": "./.yarn/cache/@types-eslint-npm-7.2.12-5d64937320-476bf25bc8.zip/node_modules/@types/eslint/",
+        ["npm:7.2.14", {
+          "packageLocation": "./.yarn/cache/@types-eslint-npm-7.2.14-0a338c7eb8-e7ab90a295.zip/node_modules/@types/eslint/",
           "packageDependencies": [
-            ["@types/eslint", "npm:7.2.12"],
+            ["@types/eslint", "npm:7.2.14"],
             ["@types/estree", "npm:0.0.47"],
             ["@types/json-schema", "npm:7.0.7"]
           ],
@@ -8357,7 +8357,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["typescript-p5-template", "workspace:."],
-            ["@types/eslint", "npm:7.2.12"],
+            ["@types/eslint", "npm:7.2.14"],
             ["@types/prettier", "npm:2.2.3"],
             ["eslint", "npm:7.27.0"],
             ["p5i", "npm:0.4.2"],
