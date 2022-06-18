@@ -1042,10 +1042,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/prettier@npm:2.2.3":
-  version: 2.2.3
-  resolution: "@types/prettier@npm:2.2.3"
-  checksum: b7e80288f9f776caca84391a7a217b8baac6b4fce00bb9701af69299d465cb8faf17466f0af0803970c74d2c191767ca729a6d21a2f7e2ce552d1ef6cc0d653a
+"@types/prettier@npm:2.6.3":
+  version: 2.6.3
+  resolution: "@types/prettier@npm:2.6.3"
+  checksum: 878d0d3ba6c19965b41044fb63b3b30f5432148ddd6818320842c960a2bfe9ad1575b50daa70ad5327308b6a3beb07f45390df6a77385c572eb817aca20dff51
   languageName: node
   linkType: hard
 
@@ -6100,12 +6100,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:2.3.0":
-  version: 2.3.0
-  resolution: "prettier@npm:2.3.0"
+"prettier@npm:2.7.1":
+  version: 2.7.1
+  resolution: "prettier@npm:2.7.1"
   bin:
     prettier: bin-prettier.js
-  checksum: 652640cc8b71bc5277cfb8bf6f161783ca588efcf683c3d630837b39da8d57fef35c9e00ae5855a8e3c75136c42274046c913cc2b2d2968558315f31c6a26981
+  checksum: 74e646bf9416eaf01d2aaf3e63f0227bc956eae5901bc0701885e790ea28fba5a68216a4bc766b916b48a9c0637f6a48181d6c995a2e4173bdff90bcf64b6bcf
   languageName: node
   linkType: hard
 
@@ -7325,11 +7325,11 @@ __metadata:
   resolution: "typescript-p5-template@workspace:."
   dependencies:
     "@types/eslint": 7.2.12
-    "@types/prettier": 2.2.3
+    "@types/prettier": 2.6.3
     eslint: 7.27.0
     p5i: 0.4.2
     parcel: 2.0.0-nightly.688
-    prettier: 2.3.0
+    prettier: 2.7.1
     typescript: 4.2.4
   languageName: unknown
   linkType: soft

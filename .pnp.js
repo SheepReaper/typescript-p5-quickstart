@@ -38,11 +38,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["@types/eslint", "npm:7.2.12"],
-            ["@types/prettier", "npm:2.2.3"],
+            ["@types/prettier", "npm:2.6.3"],
             ["eslint", "npm:7.27.0"],
             ["p5i", "npm:0.4.2"],
             ["parcel", "npm:2.0.0-nightly.688"],
-            ["prettier", "npm:2.3.0"],
+            ["prettier", "npm:2.7.1"],
             ["typescript", "patch:typescript@npm%3A4.2.4#builtin<compat/typescript>::version=4.2.4&hash=a45b0e"]
           ],
           "linkType": "SOFT",
@@ -1273,10 +1273,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/prettier", [
-        ["npm:2.2.3", {
-          "packageLocation": "./.yarn/cache/@types-prettier-npm-2.2.3-6036e6d94a-b7e80288f9.zip/node_modules/@types/prettier/",
+        ["npm:2.6.3", {
+          "packageLocation": "./.yarn/cache/@types-prettier-npm-2.6.3-8d27063d48-878d0d3ba6.zip/node_modules/@types/prettier/",
           "packageDependencies": [
-            ["@types/prettier", "npm:2.2.3"]
+            ["@types/prettier", "npm:2.6.3"]
           ],
           "linkType": "HARD",
         }]
@@ -6960,10 +6960,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["prettier", [
-        ["npm:2.3.0", {
-          "packageLocation": "./.yarn/cache/prettier-npm-2.3.0-29ef37e8b6-652640cc8b.zip/node_modules/prettier/",
+        ["npm:2.7.1", {
+          "packageLocation": "./.yarn/cache/prettier-npm-2.7.1-d1f40f5e1a-74e646bf94.zip/node_modules/prettier/",
           "packageDependencies": [
-            ["prettier", "npm:2.3.0"]
+            ["prettier", "npm:2.7.1"]
           ],
           "linkType": "HARD",
         }]
@@ -8358,11 +8358,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["typescript-p5-template", "workspace:."],
             ["@types/eslint", "npm:7.2.12"],
-            ["@types/prettier", "npm:2.2.3"],
+            ["@types/prettier", "npm:2.6.3"],
             ["eslint", "npm:7.27.0"],
             ["p5i", "npm:0.4.2"],
             ["parcel", "npm:2.0.0-nightly.688"],
-            ["prettier", "npm:2.3.0"],
+            ["prettier", "npm:2.7.1"],
             ["typescript", "patch:typescript@npm%3A4.2.4#builtin<compat/typescript>::version=4.2.4&hash=a45b0e"]
           ],
           "linkType": "SOFT",
