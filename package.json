@@ -9,7 +9,7 @@
     "@types/prettier": "2.7.3",
     "eslint": "8.50.0",
     "p5i": "0.4.2",
-    "parcel": "2.0.0-nightly.1371",
+    "parcel": "2.9.3",
     "prettier": "3.0.3",
     "typescript": "5.2.2"
   }
