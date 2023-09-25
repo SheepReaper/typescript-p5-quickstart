@@ -1492,10 +1492,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/prettier@npm:2.2.3":
-  version: 2.2.3
-  resolution: "@types/prettier@npm:2.2.3"
-  checksum: b7e80288f9f776caca84391a7a217b8baac6b4fce00bb9701af69299d465cb8faf17466f0af0803970c74d2c191767ca729a6d21a2f7e2ce552d1ef6cc0d653a
+"@types/prettier@npm:2.7.3":
+  version: 2.7.3
+  resolution: "@types/prettier@npm:2.7.3"
+  checksum: 8bbf511338819b7e07750d2f91477fa23faa1a9eedbfbfe92e44d2b52d98f32d930aa42a97f3a3fe510ba33835e662bf058a3400b6569f27666c96dee0f4c59d
   languageName: node
   linkType: hard
 
@@ -3960,7 +3960,7 @@ __metadata:
   resolution: "typescript-p5-template@workspace:."
   dependencies:
     "@types/eslint": 8.44.3
-    "@types/prettier": 2.2.3
+    "@types/prettier": 2.7.3
     eslint: 8.50.0
     p5i: 0.4.2
     parcel: 2.0.0-nightly.1371
