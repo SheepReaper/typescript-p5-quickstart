@@ -38,7 +38,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["@types/eslint", "npm:8.44.3"],
-            ["@types/prettier", "npm:2.2.3"],
+            ["@types/prettier", "npm:2.7.3"],
             ["eslint", "npm:8.50.0"],
             ["p5i", "npm:0.4.2"],
             ["parcel", "npm:2.0.0-nightly.1371"],
@@ -1867,10 +1867,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/prettier", [
-        ["npm:2.2.3", {
-          "packageLocation": "./.yarn/cache/@types-prettier-npm-2.2.3-6036e6d94a-b7e80288f9.zip/node_modules/@types/prettier/",
+        ["npm:2.7.3", {
+          "packageLocation": "./.yarn/cache/@types-prettier-npm-2.7.3-497316f37c-8bbf511338.zip/node_modules/@types/prettier/",
           "packageDependencies": [
-            ["@types/prettier", "npm:2.2.3"]
+            ["@types/prettier", "npm:2.7.3"]
           ],
           "linkType": "HARD",
         }]
@@ -4652,7 +4652,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["typescript-p5-template", "workspace:."],
             ["@types/eslint", "npm:8.44.3"],
-            ["@types/prettier", "npm:2.2.3"],
+            ["@types/prettier", "npm:2.7.3"],
             ["eslint", "npm:8.50.0"],
             ["p5i", "npm:0.4.2"],
             ["parcel", "npm:2.0.0-nightly.1371"],
