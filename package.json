@@ -5,7 +5,7 @@
     "build": "parcel build ./src/index.html"
   },
   "devDependencies": {
-    "@types/eslint": "8.44.6",
+    "@types/eslint": "8.44.7",
     "@types/prettier": "2.7.3",
     "eslint": "8.53.0",
     "p5i": "0.4.2",
