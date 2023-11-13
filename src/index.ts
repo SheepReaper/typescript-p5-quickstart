@@ -1,14 +1,18 @@
-import { p5i } from "p5i";
+import p5 from "p5"
 
-const sketch = p5i(() => ({
-  setup({ createCanvas, background }) {
+const sketch = (p:p5) => {
+  p.setup = () => {
     // Runs once
-    createCanvas(800, 800);
-    background(200);
-  },
-  draw() {
+    p.createCanvas(800, 800);
+    p.background(200);
+  }
+  p.draw = () => {
     // Runs every frame
-  },
-}));
+  }
+};
 
-sketch.mount(document.getElementById("canvas-frame"));
+const element = document.getElementById("canvas-frame");
+
+if (element) {
+  new p5(sketch, element);
+}

@@ -1290,10 +1290,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/p5@npm:^0.9.1":
-  version: 0.9.1
-  resolution: "@types/p5@npm:0.9.1"
-  checksum: bf30fa439f7d376650fdbfa5f90d28b9797eb96ce6ec08ecbaaef8eaae9de273acd7c253c7819e98db6d841a5f2ce285fe6c7026dedfd37ba17db5378b38873b
+"@types/p5@npm:^1":
+  version: 1.7.3
+  resolution: "@types/p5@npm:1.7.3"
+  checksum: 6824f1649077b1592d8a963db6eab9fb5db853b4de3c4f19545fce64f2917ca7b4b4af3cc85d1f7536b0a3eff2ff6696eb3f8ab9e5e2292a1a2e598d36f681f6
   languageName: node
   linkType: hard
 
@@ -3017,20 +3017,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"p5@npm:^1.1.9":
+"p5@npm:^1.8.0":
   version: 1.8.0
   resolution: "p5@npm:1.8.0"
   checksum: 8fb3fbe18b1a03bc5d093d5d6c52b9ef56788c460560edcffa885a2aaacccc5c1e28daa1f73b53a5e879fe294c46b240a487cfdab33b80174b6855131fe01d8c
-  languageName: node
-  linkType: hard
-
-"p5i@npm:0.4.2":
-  version: 0.4.2
-  resolution: "p5i@npm:0.4.2"
-  dependencies:
-    "@types/p5": "npm:^0.9.1"
-    p5: "npm:^1.1.9"
-  checksum: ad1bf4ab0ab6a2a85c83c33a72e2f12e38a914d1be5bc91a657fb24cb5d02d9759af04c8fbba6bb62117e9400c054ce0a70e6f88c7d15d6f9e1293cb058b99bd
   languageName: node
   linkType: hard
 
@@ -3544,9 +3534,10 @@ __metadata:
   resolution: "typescript-p5-template@workspace:."
   dependencies:
     "@types/eslint": "npm:8.44.7"
+    "@types/p5": "npm:^1"
     "@types/prettier": "npm:2.7.3"
     eslint: "npm:8.53.0"
-    p5i: "npm:0.4.2"
+    p5: "npm:^1.8.0"
     parcel: "npm:2.10.2"
     prettier: "npm:3.0.3"
     typescript: "npm:5.2.2"

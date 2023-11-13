@@ -1,22 +1,9 @@
 {
     "compilerOptions": {
         "target": "ESNext",
-        // "sourceMap": true,
-        // "lib": [
-        //     "ESNext",
-        //     "DOM"
-        // ],
-        // "noUnusedLocals": true,
-        // "module": "ESNext",
-        // "outDir": "bin",
         "moduleResolution": "node",
         "esModuleInterop": true,
-        "noEmit": true,
-        "baseUrl": "./src",
-        "paths": {
-            "~*": ["./"]
-        }
-        // "types": ["@types/p5"]
+        "noEmit": true
     },
     "include": ["src/**/*"]
 }
